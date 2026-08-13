@@ -1,5 +1,4 @@
-> [!IMPORTANT]> 
-> The Dev Days content has moved! Looking for the new Dev Days page? [Go to the dev-days repo](https://gh.io/dev-days/repo).
+> **🚨 IMPORTANT**: The Dev Days content has moved! Looking for the new Dev Days page? [Go to the dev-days repo](https://gh.io/dev-days/repo).
 
 # 📚 Content
 
