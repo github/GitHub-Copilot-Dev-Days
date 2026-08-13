@@ -1,3 +1,6 @@
+> [!IMPORTANT]> 
+> The Dev Days content has moved! Looking for the new Dev Days page? [Go to the dev-days repo](https://gh.io/dev-days/repo).
+
 # 📚 Content
 
 This folder contains the **official content** for **GitHub Copilot Dev Days**, including presentation slides and hands-on labs.

@@ -1,3 +1,6 @@
+> [!IMPORTANT]> 
+> The Dev Days content has moved! Looking for the new Dev Days page? [Go to the dev-days repo](https://gh.io/dev-days/repo).
+
 # 🎉 Organizer Guide: GitHub Copilot Dev Days
 
 GitHub Copilot Dev Days is a community-driven event created by Microsoft developers for the broader developer community. **The goal is to foster learning, collaboration, and innovation around GitHub Copilot.**

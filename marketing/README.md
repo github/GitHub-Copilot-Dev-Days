@@ -1,3 +1,6 @@
+> [!IMPORTANT]> 
+> The Dev Days content has moved! Looking for the new Dev Days page? [Go to the dev-days repo](https://gh.io/dev-days/repo).
+
 # 📣 Marketing Toolkit
 
 This marketing toolkit provides everything you need to successfully promote your **GitHub Copilot Dev Days** event. All materials are professionally designed and ready to customize with your event details.

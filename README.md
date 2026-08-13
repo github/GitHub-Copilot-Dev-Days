@@ -1,3 +1,7 @@
+> [!IMPORTANT]> 
+> The Dev Days content has moved! Looking for the new Dev Days page? [Go to the dev-days repo](https://gh.io/dev-days/repo).
+
+
 ![Dark banner with the text ‘GitHub Copilot Dev Days’ beside a green 3D block featuring the GitHub logo.](assets/github-copilot-dev-days.png)
 
 # GitHub Copilot Dev Days 2026 – Community Event Kit
